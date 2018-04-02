@@ -1,3 +1,8 @@
+/Root/apps/Google アンケート モニター_20170505.apk
+/Root/apps/Google アンケート モニター_20171020.apk
+/Root/apps/Google サポート サービス_1.16.0.apk
+/Root/apps/Google バックアップ トランスポート_7.1.2.apk
+/Root/apps/Google バックアップ トランスポート_7.1.2.systag
 /Root/apps/Fused Location_7.1.2.apk
 /Root/apps/Fused Location_7.1.2.systag
 /Root/apps/GPS速度計 - トリップメーター_1.1.4.apk
