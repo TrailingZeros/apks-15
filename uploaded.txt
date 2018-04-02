@@ -1,3 +1,9 @@
+/Root/apps/Fused Location_7.1.2.apk
+/Root/apps/Fused Location_7.1.2.systag
+/Root/apps/GPS速度計 - トリップメーター_1.1.4.apk
+/Root/apps/GPS速度計 - トリップメーター_1.1.5.apk
+/Root/apps/Google One Time Init_7.1.2.apk
+/Root/apps/Google One Time Init_7.1.2.systag
 /Root/apps/Call Log Backup Restore_7.1.2.apk
 /Root/apps/Call Log Backup Restore_7.1.2.systag
 /Root/apps/CaptivePortalLogin_7.1.2.apk
