@@ -1,3 +1,25 @@
+/Root/apps/Call Log Backup Restore_7.1.2.apk
+/Root/apps/Call Log Backup Restore_7.1.2.systag
+/Root/apps/CaptivePortalLogin_7.1.2.apk
+/Root/apps/CaptivePortalLogin_7.1.2.systag
+/Root/apps/Carrier Setup_7.1.2.apk
+/Root/apps/Carrier Setup_7.1.2.systag
+/Root/apps/ChMate_0.8.10.1.apk
+/Root/apps/ChMate_0.8.10.10.apk
+/Root/apps/ChMate_0.8.10.7.apk
+/Root/apps/ConfigSlurper on Android_1.0.apk
+/Root/apps/ConfigUpdater_7.1.2.apk
+/Root/apps/ConfigUpdater_7.1.2.systag
+/Root/apps/Desmos_2.6.2.1.apk
+/Root/apps/Desmos_2.6.3.1.apk
+/Root/apps/Desmos_2.6.4.1.apk
+/Root/apps/Desmos_2.6.5.1.apk
+/Root/apps/Desmos_3.0.0.2.apk
+/Root/apps/Device Health Services_1.0.2 (4382538).apk
+/Root/apps/Device Health Services_1.1.0.177467947.apk
+/Root/apps/Device Health Services_7.1.2.apk
+/Root/apps/Device Health Services_7.1.2.systag
+/Root/apps/EasyOvpn_3.11.apk
 /Root/apps/Binance_1.4.4.0.apk
 /Root/apps/Bitcoin Wallet [testnet3]_5.36.apk
 /Root/apps/Bitcoin Wallet [testnet3]_5.37.apk
